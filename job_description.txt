@@ -1,0 +1,23 @@
+Job Title: Data Scientist
+
+We are seeking a highly skilled and motivated Data Scientist to join our analytics team. The ideal candidate will have a strong foundation in data analysis, statistical modeling, and machine learning. You will work closely with stakeholders to extract insights and build predictive models that drive business decisions.
+
+Responsibilities:
+- Analyze large datasets using Python and SQL.
+- Build predictive models using scikit-learn, XGBoost, or other ML libraries.
+- Collaborate with cross-functional teams to identify business opportunities.
+- Create dashboards and visualizations using Power BI, Tableau, or matplotlib/seaborn.
+- Clean, transform, and preprocess raw data for analysis and modeling.
+
+Requirements:
+- Strong proficiency in Python (pandas, NumPy, matplotlib, seaborn).
+- Experience with machine learning libraries (scikit-learn, TensorFlow, or PyTorch).
+- Good knowledge of SQL and relational databases.
+- Familiarity with cloud platforms (AWS, GCP, or Azure) is a plus.
+- Excellent problem-solving and communication skills.
+- Bachelor’s or Master’s in Computer Science, Data Science, Statistics, or related field.
+
+Nice to have:
+- Experience with NLP, time-series analysis, or deep learning.
+- Working knowledge of version control (Git).
+- Participation in Kaggle competitions or open-source projects.
